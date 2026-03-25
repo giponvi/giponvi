@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com aplicações principalmente em Python e Java
 - 🌱 Buscando aprimorar meus conhecimentos em Cybersecurity
-- 😄 Pronouns: Ele/Dele
+- 👨‍💻 Ele/Dele
 
 <div> 
   <a href="[https://discord.gg/wagxzStdcR](https://discord.gg/2r9nXMvDhf)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
