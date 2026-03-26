@@ -4,6 +4,15 @@
 - 🌱 Buscando aprimorar meus conhecimentos em Cybersecurity
 - 👨‍💻 Ele/Dele
 
+## Inglês
+
+## Hello, My name is Giovane Vicente
+
+- 🔭 I currently work with applications mainly in Python and Java
+- 🌱 Seeking to improve my knowledge in Cybersecurity
+- 👨‍💻 he/him
+
+
 <div> 
   <a href="[https://discord.gg/wagxzStdcR](https://discord.gg/2r9nXMvDhf)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:giponvi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
