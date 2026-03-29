@@ -21,11 +21,6 @@
 
 ----
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=giponvi&show_icons=true&theme=merko#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=giponvi&show_icons=true&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-----
-
 ![Eixos de Atividade](https://github-readme-stats.vercel.app/api/top-langs/?username=giponvi&layout=compact&theme=merko)
 <div style="display: inline_block"><br>  
   <img align="center" alt="Giponvi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
