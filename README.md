@@ -21,7 +21,6 @@
 
 ----
 
-![Eixos de Atividade](https://github-readme-stats.vercel.app/api/top-langs/?username=giponvi&layout=compact&theme=merko)
 <div style="display: inline_block"><br>  
   <img align="center" alt="Giponvi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Giponvi-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
