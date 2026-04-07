@@ -6,7 +6,7 @@
 - 🌱 Buscando aprimorar meus conhecimentos em Cybersecurity
 - 👨‍💻 Ele/Dele
 
-## `===Inglês===`
+## Inglês
 
 ## Hello, My name is Giovane Vicente
 
