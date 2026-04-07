@@ -6,6 +6,7 @@
 - 🌱 Buscando aprimorar meus conhecimentos em Cybersecurity
 - 👨‍💻 Ele/Dele
 
+-------
 ## Inglês
 
 ## Hello, My name is Giovane Vicente
@@ -20,11 +21,6 @@
 
 
 ----
-
-<div> 
-  <a href="[https://discord.gg/wagxzStdcR](https://discord.gg/2r9nXMvDhf)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:giponvi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovane-vicente" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <p align="left">
     </a> 
@@ -35,6 +31,9 @@
             src="https://custom-icon-badges.demolab.com/github/stars/giponvi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
+     <a href="[https://discord.gg/wagxzStdcR](https://discord.gg/2r9nXMvDhf)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:giponvi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/giovane-vicente" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://github.com/giponvi?tab=followers">
         <img 
             alt="Seguidores" 
@@ -44,7 +43,7 @@
     </a>
 </p>
 
----------------------------------------------------------------
+
 
 ### 🤖 Linguagens e Tecnologias
 
