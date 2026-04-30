@@ -1,26 +1,43 @@
-## Olá! Me chamo Giovane Vicente
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=adff2f&size=30&width=600&lines=Olá,+me+chamo+Giovane!">
+</h1>
 
 **`Desenvolvedor Back-End`**
 
-- 🔭 Atualmente trabalho com aplicações principalmente em Python e Java
-- 🌱 Buscando aprimorar meus conhecimentos em Cybersecurity
-- 👨‍💻 Ele/Dele
 
--------
-## Inglês
+<img align="right" src="https://i.pinimg.com/736x/73/9a/e3/739ae39fc0b73410d1fbb5c6e7d87e9b.jpg" width="400"/>
 
-## Hello, My name is Giovane Vicente
-
-**`Back-End Developer`**
-
-- 🔭 I currently work with applications mainly in Python and Java
 - 🌱 Seeking to improve my knowledge in Cybersecurity
 - 👨‍💻 he/him
 
 
+<p>
+Atualmente estou graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Faculdade de Engenharia de Sorocaba (FACENS)</strong>.
+Buscando me aprimorar e futuramente trabalhar com <strong>Cybersecurity</strong>, com foco tanto em pentest quanto com monitoramento de SOC e análise de logs.<br> Tenho me dedicado a me desenvolver estudando <strong>Redes, protocolos de comunicação, desenvolvimento web, etc</strong>, buscando uma evolução contínua.
+</p>
 
+### 🤖 Linguagens e Tecnologias
 
-----
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+</p>
+
+<h3>Git Status</h3>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=giponvi&layout=compact&title_color=1F6FEB&text_color=ffffff&bg_color=0d1117" 
+    height="170"
+/>
+<img 
+    src="https://github-readme-stats.vercel.app/api?username=giponvi&show_icons=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=ffffff&bg_color=0d1117" 
+    height="170"
+  />
+</p>
 </div>
 <p align="left">
     </a> 
@@ -43,50 +60,8 @@
     </a>
 </p>
 
-
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Giponvi-Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"
-    />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrolima-07/pedrolima-07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrolima-07/pedrolima-07/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedrolima-07/pedrolima-07/output/github-contribution-grid-snake.svg">
+</picture>
