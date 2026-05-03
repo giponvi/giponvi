@@ -5,7 +5,7 @@
 **`Desenvolvedor Back-End`**
 
 
-<img align="right" src="https://i.pinimg.com/736x/73/9a/e3/739ae39fc0b73410d1fbb5c6e7d87e9b.jpg" width="400"/>
+<img align="right" src="https://i.pinimg.com/1200x/f1/43/bb/f143bb1dccbbf9b987f423b7b444686e.jpg" width="400"/>
 
 - 🌱 Seeking to improve my knowledge in Cybersecurity
 - 👨‍💻 he/him
