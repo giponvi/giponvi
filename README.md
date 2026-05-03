@@ -12,7 +12,7 @@
 
 
 <p>
-Atualmente estou graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Faculdade de Engenharia de Sorocaba (FACENS)</strong>.
+Atualmente estou graduando em <strong>Análise e Desenvolvimento de Sistemas</strong>.
 Buscando me aprimorar e futuramente trabalhar com <strong>Cybersecurity</strong>, com foco tanto em pentest quanto com monitoramento de SOC e análise de logs.<br> Tenho me dedicado a me desenvolver estudando <strong>Redes, protocolos de comunicação, desenvolvimento web, etc</strong>, buscando uma evolução contínua.
 </p>
 
