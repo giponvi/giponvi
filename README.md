@@ -5,7 +5,7 @@
 **`Desenvolvedor Back-End`**
 
 
-<img align="right" src="https://i.pinimg.com/1200x/f1/43/bb/f143bb1dccbbf9b987f423b7b444686e.jpg" width="400"/>
+<img align="right" src="https://i.pinimg.com/1200x/d0/1d/45/d01d4513378dc9bcc24a6d374054025d.jpg" width="400"/>
 
 - 🌱 Seeking to improve my knowledge in Cybersecurity
 - 👨‍💻 he/him
@@ -25,18 +25,6 @@ Buscando me aprimorar e futuramente trabalhar com <strong>Cybersecurity</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-</p>
-
-<h3>Git Status</h3>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=giponvi&layout=compact&title_color=1F6FEB&text_color=ffffff&bg_color=0d1117" 
-    height="170"
-/>
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=giponvi&show_icons=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=ffffff&bg_color=0d1117" 
-    height="170"
-  />
 </p>
 </div>
 <p align="left">
